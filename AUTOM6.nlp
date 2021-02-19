@@ -1,0 +1,13 @@
+# Project description file
+
+project.name=AUTOM6
+project.version=8.1
+project.original.version=8.1
+product.name=NeoLoad
+product.original.name=NeoLoad
+product.version=7.6.0
+product.original.version=7.6.0
+project.id=c6c65358-f785-4df7-bc52-4279a3f2db21
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=false
